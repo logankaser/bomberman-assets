@@ -1,5 +1,5 @@
-meshes/PlayerModel.obj
-textures/PlayerModelTexture.png
+meshes/player.obj
+textures/player.png
 
 	Material:
         200 specular
@@ -23,8 +23,8 @@ textures/PlayerModelTexture.png
 	Position:
 	0 0 0
 
-meshes/PlayerModelBase.obj
-textures/PlayerModelBaseTexture.png
+meshes/player_base.obj
+textures/player_base.png
 
 	Material:
 		200 specular
