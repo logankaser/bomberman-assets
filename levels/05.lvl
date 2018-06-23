@@ -1,20 +1,15 @@
-06
-assets/sounds/03_music.wav
+05
+assets/sounds/02_music.wav
 models/04/floor
 
-+++++++++++++++
-+ccccccccccccc+
-+c+++++++++++c+
-+g F F F F  +c+
-++fffFf f f +c+
-+F f FF+ F  +c+
-++f f FFf+f +c+
-++++++++++  +c+
-++f   f f f++c+
-+F f F   F +cc+
-++f ^ F^f f+c++
-+F F F   F +c++
-+ f+ +f f f+cc+
-+ +++++++++++c+
-+ p          c+
-+++++++++++++++
+++++++++++++++
++p  cccccccc +
++ ++++++++++f+
++f+cccccccc+ +
++f+cccccccc+F+
++f+cccccccc+ +
++f+cccccccc+f+
++f++++++++ +f+
++cffffffff  c+
++g++++++++++++
++++
