@@ -1,9 +1,9 @@
 meshes/enemy.obj
-textures/EnemyTexture.png
+textures/enemy_alt.png
 
 	Material:
-        200 specular
-        1 diffuse
+        100 specular
+        0.5 diffuse
         4000 fog
         0 0 0 fogcol
 
